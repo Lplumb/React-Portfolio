@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.8d6d47de.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.0ad357cd.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.0ad357cd.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.b6009370.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.b6009370.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.48332091.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.48332091.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/React-Portfolio/static/css/2.4c97ca4f.chunk.css",
@@ -16,7 +16,7 @@
     "static/media/Fitness-tracker.ba1648f1.jpg": "/React-Portfolio/static/media/Fitness-tracker.ba1648f1.jpg",
     "static/media/Gmail.33d51ee8.png": "/React-Portfolio/static/media/Gmail.33d51ee8.png",
     "static/media/Photo1.c41061a1.jpg": "/React-Portfolio/static/media/Photo1.c41061a1.jpg",
-    "static/media/Screenshot_1.29ba5cde.jpg": "/React-Portfolio/static/media/Screenshot_1.29ba5cde.jpg",
+    "static/media/Screenshot_1.ace496f8.jpg": "/React-Portfolio/static/media/Screenshot_1.ace496f8.jpg",
     "static/media/burg.e0e130e1.jpg": "/React-Portfolio/static/media/burg.e0e130e1.jpg",
     "static/media/note-taker.dde1201e.jpg": "/React-Portfolio/static/media/note-taker.dde1201e.jpg",
     "static/media/project1.69d1b5d8.jpg": "/React-Portfolio/static/media/project1.69d1b5d8.jpg"
@@ -26,6 +26,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.23d85c48.chunk.js",
     "static/css/main.8d6d47de.chunk.css",
-    "static/js/main.0ad357cd.chunk.js"
+    "static/js/main.b6009370.chunk.js"
   ]
 }
