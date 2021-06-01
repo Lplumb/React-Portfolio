@@ -26,6 +26,13 @@ export default class contact extends Component {
               </div>
               <br/>
           </main>
+          <card className="card bg-secondary mb-3">
+            <ul>
+              <li>Email:<a href = "lplumb1999@gmail.com"> lplumb1999@gmail.com</a></li>
+              <li>Phone Number: 913-280-6211</li>
+              <li><a href="https://www.linkedin.com/in/lucas-plumb-660083203/">Linkedin</a></li>
+            </ul>
+          </card>
 
 
                 

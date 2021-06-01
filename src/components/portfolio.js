@@ -25,12 +25,14 @@ export default class Portfolio extends Component {
                     <a href = "https://fathomless-plateau-55223.herokuapp.com">
                         <img src={fitnessImg} height={350} width={500} className="float-left" alt="Fitness tracker"/>
                     </a>
+                    <p className="float-left">A simple site that can keep track of your work outs.</p>
                 </div>
             <div className="col-md-6 mb-3">
                     <h5>Note Taker</h5>
                     <a href = "https://morning-reaches-52681.herokuapp.com">
                         <img src={noteImg} height={350} width={500} className="float-left" alt="note taker"/>
                     </a>
+                    <p className="float-left">An app that allows you to take notes using express. You can also delete these notes as well.</p>
                 </div>
             </div>
                 
@@ -41,12 +43,14 @@ export default class Portfolio extends Component {
                 <a href = "https://jarrettheller.github.io/DnD-Spells/">
                     <img src={project1Image} height={350} width={500} className="float-left" alt="project 1"/>
                 </a>
+                <p className="float-left">A project that shows off a list of spells from different classes from the board game, dungeons and dragons.</p>
             </div>
             <div className="col-md-6 mb-3">
-            <h5>Tarot Card Site</h5>
-                <a href = "https://www.youtube.com/watch?v=Pp_P7dYzEtw">
-                    <img src={project2Image} height={350} width={500} className="float-left" alt="project 2"/>
+            <h5>Vision Board</h5>
+                <a href = "https://vision-board-learning-place.herokuapp.com">
+                    <img src={project2Image} height={350} width={500} className="float-left" alt="project 3"/>
                 </a>
+                <p className="float-left">This site allows you to make an account and make different "vision boards" that allow you to keep track of images, links and, notes for any sort of creative project.</p>
             </div>
 
         </div>
@@ -57,26 +61,24 @@ export default class Portfolio extends Component {
                 <a href = "https://pacific-coast-12172.herokuapp.com">
                     <img src={Budget} height={350} width={500} className="float-left" alt="Budget Tracker"/>
                 </a>
+                <p className="float-left">This site allows you to enter different expenses made and helps keep track of your money and finances.</p>
             </div>
             <div className="col-md-6 mb-3">
                 <h5>Burger Menu</h5>
                 <a href = "https://shrouded-forest-04923.herokuapp.com">
                     <img src={Burg} height={350} width={500} className="float-left" alt="project 2"/>
                 </a>
+                <p className="float-left">An app that just simply keeps track of a burger app.</p>
             </div>
 
         </div>
 
-        <div className="card">
-            <div className="card-body">
-            <h5 className="card-title">Other Links</h5>
+        <card>
             <ul>
-                <li href="https://github.com/Lplumb">My Github</li>
                 <li></li>
             </ul>
-        
-        </div>
-</div>
+        </card>
+
         </div>
         )
     }
