@@ -25,15 +25,18 @@ export default class Portfolio extends Component {
                     <a href = "https://fathomless-plateau-55223.herokuapp.com">
                         <img src={fitnessImg} height={350} width={500} className="float-left" alt="Fitness tracker"/>
                     </a>
-                    <p className="float-left">A simple site that can keep track of your work outs.</p>
+                    <p className="float-left">A simple site that can keep track of your work outs, it uses mongoDB for all of its data storage.</p>
+                    <a href="https://github.com/Lplumb/Fitness-Tracker">Github Repo</a>
                 </div>
-            <div className="col-md-6 mb-3">
+                <div className="col-md-6 mb-3">
                     <h5>Note Taker</h5>
                     <a href = "https://morning-reaches-52681.herokuapp.com">
                         <img src={noteImg} height={350} width={500} className="float-left" alt="note taker"/>
                     </a>
                     <p className="float-left">An app that allows you to take notes using express. You can also delete these notes as well.</p>
+                    <a href="https://github.com/Lplumb/Note-Taker">Github Repo</a>
                 </div>
+                
             </div>
                 
             {/* <!--second row of images--> */}
@@ -44,13 +47,15 @@ export default class Portfolio extends Component {
                     <img src={project1Image} height={350} width={500} className="float-left" alt="project 1"/>
                 </a>
                 <p className="float-left">A project that shows off a list of spells from different classes from the board game, dungeons and dragons.</p>
+                <a href="https://github.com/JarrettHeller/DnD-Spells">Github Repo</a>
             </div>
             <div className="col-md-6 mb-3">
             <h5>Vision Board</h5>
                 <a href = "https://vision-board-learning-place.herokuapp.com">
                     <img src={project2Image} height={350} width={500} className="float-left" alt="project 3"/>
                 </a>
-                <p className="float-left">This site allows you to make an account and make different "vision boards" that allow you to keep track of images, links and, notes for any sort of creative project.</p>
+                <p className="float-left">This site allows you to make an account and make different "vision boards" that allow you to keep track of images, links and, notes for any sort of creative project. The project was built using react, express, mySQL, and passport.</p>
+                <a href="https://github.com/maggiemaywilder/vision-board">Github Repo</a>
             </div>
 
         </div>
@@ -61,14 +66,16 @@ export default class Portfolio extends Component {
                 <a href = "https://pacific-coast-12172.herokuapp.com">
                     <img src={Budget} height={350} width={500} className="float-left" alt="Budget Tracker"/>
                 </a>
-                <p className="float-left">This site allows you to enter different expenses made and helps keep track of your money and finances.</p>
+                <p className="float-left">This site allows you to enter different expenses made and helps keep track of your money and finances. All data is handled using mongoDB.<a href="https://github.com/Lplumb/Online-Offline-budget-tracker">Github Repo</a></p>
+
             </div>
             <div className="col-md-6 mb-3">
                 <h5>Burger Menu</h5>
                 <a href = "https://shrouded-forest-04923.herokuapp.com">
                     <img src={Burg} height={350} width={500} className="float-left" alt="project 2"/>
                 </a>
-                <p className="float-left">An app that just simply keeps track of a burger app.</p>
+                <p className="float-left">An app that just simply keeps track of a burger menu using index handlebars for live updating in the site. <a href="https://github.com/Lplumb/burger">Github Repo</a></p>
+                
             </div>
 
         </div>
