@@ -1,5 +1,5 @@
 # React Portfolio
-A remade version of my previous portfolio made using the React frame work.
+A remade version of my previous portfolio made using the React frame work. All pages connect better and in general the site flows better with react.
 
 ## Deployed Link
 https://lplumb.github.io/React-Portfolio/
