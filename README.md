@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# React Portfolio
+A remade version of my previous portfolio made using the React frame work.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Deployed Link
+https://lplumb.github.io/React-Portfolio/
 
 ## Available Scripts
 
@@ -68,3 +70,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
